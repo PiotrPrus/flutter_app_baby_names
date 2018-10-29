@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "173098736248",
+    "firebase_url": "https://piotrbabynamesflutter.firebaseio.com",
+    "project_id": "piotrbabynamesflutter",
+    "storage_bucket": "piotrbabynamesflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173098736248:android:af3bc98c358aefa8",
+        "android_client_info": {
+          "package_name": "com.example.flutterappbabynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173098736248-m55emtt66kgkh0jqgi4cai1qfe8fl0h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHS32qm4X1tQqkH6azUhD2hUVz5ty5iFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
